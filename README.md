@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/hk20-0305/Leetcode_Question/tree/master/0205-isomorphic-strings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/hk20-0305/Leetcode_Question/tree/master/0205-isomorphic-strings) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/hk20-0305/Leetcode_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Design
 |  |
