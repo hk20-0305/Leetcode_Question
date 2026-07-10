@@ -18,8 +18,6 @@ class Solution {
             
             if(fr[i]!=fr[i+1]){
                 x=Math.abs(fr[i]-fr[i+1]);
-            }else{
-                continue;
             }
         }
 
