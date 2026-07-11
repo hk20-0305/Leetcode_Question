@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/hk20-0305/Leetcode_Question/tree/master/0205-isomorphic-strings) |
+| [0535-encode-and-decode-tinyurl](https://github.com/hk20-0305/Leetcode_Question/tree/master/0535-encode-and-decode-tinyurl) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
@@ -23,13 +24,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/hk20-0305/Leetcode_Question/tree/master/0205-isomorphic-strings) |
+| [0535-encode-and-decode-tinyurl](https://github.com/hk20-0305/Leetcode_Question/tree/master/0535-encode-and-decode-tinyurl) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/hk20-0305/Leetcode_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hk20-0305/Leetcode_Question/tree/master/0225-implement-stack-using-queues) |
+| [0535-encode-and-decode-tinyurl](https://github.com/hk20-0305/Leetcode_Question/tree/master/0535-encode-and-decode-tinyurl) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hk20-0305/Leetcode_Question/tree/master/0225-implement-stack-using-queues) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/hk20-0305/Leetcode_Question/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
