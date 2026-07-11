@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hk20-0305/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/hk20-0305/Leetcode_Question/tree/master/0225-implement-stack-using-queues) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1525-number-of-good-ways-to-split-a-string) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hk20-0305/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hk20-0305/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hk20-0305/Leetcode_Question/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
