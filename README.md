@@ -106,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/hk20-0305/Leetcode_Question/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
