@@ -138,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/hk20-0305/Leetcode_Question/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/hk20-0305/Leetcode_Question/tree/master/0113-path-sum-ii) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/hk20-0305/Leetcode_Question/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
