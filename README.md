@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/hk20-0305/Leetcode_Question/tree/master/0197-rising-temperature) |
+| [1068-product-sales-analysis-i](https://github.com/hk20-0305/Leetcode_Question/tree/master/1068-product-sales-analysis-i) |
 ## Binary Search Tree
 |  |
 | ------- |
