@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/hk20-0305/Leetcode_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
