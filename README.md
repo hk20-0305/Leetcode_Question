@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hk20-0305/Leetcode_Question/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
+| [1302-deepest-leaves-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/hk20-0305/Leetcode_Question/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hk20-0305/Leetcode_Question/tree/master/0617-merge-two-binary-trees) |
+| [1302-deepest-leaves-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hk20-0305/Leetcode_Question/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0700-search-in-a-binary-search-tree) |
+| [1302-deepest-leaves-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/hk20-0305/Leetcode_Question/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/hk20-0305/Leetcode_Question/tree/master/0617-merge-two-binary-trees) |
+| [1302-deepest-leaves-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search
 |  |
 | ------- |
