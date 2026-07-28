@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0062-unique-paths) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Bit Manipulation
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hk20-0305/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
