@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/hk20-0305/Leetcode_Question/tree/master/1023-camelcase-matching) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/2785-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hk20-0305/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hk20-0305/Leetcode_Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Stack
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hk20-0305/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hk20-0305/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-camelcase-matching](https://github.com/hk20-0305/Leetcode_Question/tree/master/1023-camelcase-matching) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hk20-0305/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
