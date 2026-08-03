@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hk20-0305/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Array
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hk20-0305/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1023-camelcase-matching](https://github.com/hk20-0305/Leetcode_Question/tree/master/1023-camelcase-matching) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/hk20-0305/Leetcode_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2679-sum-in-a-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/2679-sum-in-a-matrix) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/hk20-0305/Leetcode_Question/tree/master/0205-isomorphic-strings) |
 | [0535-encode-and-decode-tinyurl](https://github.com/hk20-0305/Leetcode_Question/tree/master/0535-encode-and-decode-tinyurl) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/hk20-0305/Leetcode_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hk20-0305/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hk20-0305/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2679-sum-in-a-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hk20-0305/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hk20-0305/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hk20-0305/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
