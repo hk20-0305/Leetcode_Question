@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/hk20-0305/Leetcode_Question/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/hk20-0305/Leetcode_Question/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/hk20-0305/Leetcode_Question/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/hk20-0305/Leetcode_Question/tree/master/0539-minimum-time-difference) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hk20-0305/Leetcode_Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hk20-0305/Leetcode_Question/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hk20-0305/Leetcode_Question/tree/master/0617-merge-two-binary-trees) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hk20-0305/Leetcode_Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hk20-0305/Leetcode_Question/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hk20-0305/Leetcode_Question/tree/master/0617-merge-two-binary-trees) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hk20-0305/Leetcode_Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/hk20-0305/Leetcode_Question/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/hk20-0305/Leetcode_Question/tree/master/0617-merge-two-binary-trees) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/hk20-0305/Leetcode_Question/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/hk20-0305/Leetcode_Question/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0257-binary-tree-paths) |
 ## Database
 |  |
 | ------- |
