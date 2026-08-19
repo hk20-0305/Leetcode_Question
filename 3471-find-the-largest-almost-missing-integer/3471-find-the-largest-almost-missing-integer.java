@@ -1,14 +1,40 @@
 class Solution {
-    public int largestInteger(int[] A, int k) {
-        int[] f = new int[51];
-        for (int x : A)
-            f[x]++;
+    public int largestInteger(int[] nums, int k) {
 
-        int res = -1,n = A.length;
-        for (int i = 0; i < n; i++) 
-            if (k == n || (f[A[i]] == 1 && (k == 1 || i == 0 || i == n - 1)))
-                res = Math.max(res, A[i]);
+        int n = nums.length;
 
-        return res;
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+
+        int max = -1;
+
+        if (k == 1) {
+            for (Map.Entry<Integer, Integer> e : map.entrySet()) {
+                if (e.getValue() == 1) {
+                    max = Math.max(max, e.getKey());
+                }
+            }
+            return max;
+        }
+
+        if (k == n) {
+            for (int num : nums) {
+                max = Math.max(max, num);
+            }
+            return max;
+        }
+
+        if (map.get(nums[0]) == 1) {
+            max = Math.max(max, nums[0]);
+        }
+
+        if (map.get(nums[n - 1]) == 1) {
+            max = Math.max(max, nums[n - 1]);
+        }
+
+        return max;
     }
 }
