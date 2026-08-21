@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/hk20-0305/Leetcode_Question/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/hk20-0305/Leetcode_Question/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hk20-0305/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1023-camelcase-matching](https://github.com/hk20-0305/Leetcode_Question/tree/master/1023-camelcase-matching) |
