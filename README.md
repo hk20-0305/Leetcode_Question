@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hk20-0305/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hk20-0305/Leetcode_Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
