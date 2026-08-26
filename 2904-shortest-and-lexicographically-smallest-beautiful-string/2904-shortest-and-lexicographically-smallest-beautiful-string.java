@@ -1,25 +1,20 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
 
-        String ans = "";
-        for (int i = 0; i < s.length(); i++) {
-            int c = 0;
-            for (int j = i; j < s.length(); j++) {
-                if (s.charAt(j) == '1')
-                    c++;
+        String ans ="";
 
-                if (c == k) {
-                    String curr = s.substring(i, j + 1);
+        int l=0;
+        int c=0;
+        for(int r=0;r<s.length();r++){
 
-                    if (ans.isEmpty() ||
-                            curr.length() < ans.length() ||
-                            (curr.length() == ans.length() && curr.compareTo(ans) < 0)) {
-                        ans = curr;
-                    }
-
-                    break;
+            if(s.charAt(r)=='1')c++; 
+            while(c==k){
+                 String curr=s.substring(l,r+1);  
+                if(ans.isEmpty()||ans.length()>curr.length()||(curr.length()==ans.length()&&curr.compareTo(ans)<0)){
+                    ans=curr;
                 }
-
+                 if (s.charAt(l) == '1') c--;
+                l++;
             }
 
         }
