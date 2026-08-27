@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hk20-0305/Leetcode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0205-isomorphic-strings](https://github.com/hk20-0305/Leetcode_Question/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/hk20-0305/Leetcode_Question/tree/master/0409-longest-palindrome) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hk20-0305/Leetcode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0062-unique-paths) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Bit Manipulation
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hk20-0305/Leetcode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1023-camelcase-matching](https://github.com/hk20-0305/Leetcode_Question/tree/master/1023-camelcase-matching) |
 | [2396-strictly-palindromic-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hk20-0305/Leetcode_Question/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
