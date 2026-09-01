@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hk20-0305/Leetcode_Question/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Combinatorics
 |  |
