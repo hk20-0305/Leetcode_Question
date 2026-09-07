@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/hk20-0305/Leetcode_Question/tree/master/1386-cinema-seat-allocation) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/hk20-0305/Leetcode_Question/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/hk20-0305/Leetcode_Question/tree/master/2121-intervals-between-identical-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/hk20-0305/Leetcode_Question/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/hk20-0305/Leetcode_Question/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2121-intervals-between-identical-elements](https://github.com/hk20-0305/Leetcode_Question/tree/master/2121-intervals-between-identical-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/hk20-0305/Leetcode_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hk20-0305/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/hk20-0305/Leetcode_Question/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1023-camelcase-matching](https://github.com/hk20-0305/Leetcode_Question/tree/master/1023-camelcase-matching) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/hk20-0305/Leetcode_Question/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
