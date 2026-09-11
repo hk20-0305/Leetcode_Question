@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/hk20-0305/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/hk20-0305/Leetcode_Question/tree/master/0485-max-consecutive-ones) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hk20-0305/Leetcode_Question/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/hk20-0305/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0062-unique-paths) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Bit Manipulation
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hk20-0305/Leetcode_Question/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Number Theory
 |  |
