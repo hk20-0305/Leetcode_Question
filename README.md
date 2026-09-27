@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/hk20-0305/Leetcode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0205-isomorphic-strings](https://github.com/hk20-0305/Leetcode_Question/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/hk20-0305/Leetcode_Question/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/hk20-0305/Leetcode_Question/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/hk20-0305/Leetcode_Question/tree/master/0539-minimum-time-difference) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hk20-0305/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hk20-0305/Leetcode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/hk20-0305/Leetcode_Question/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/hk20-0305/Leetcode_Question/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/hk20-0305/Leetcode_Question/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/hk20-0305/Leetcode_Question/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hk20-0305/Leetcode_Question/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Function
 |  |
 | ------- |
