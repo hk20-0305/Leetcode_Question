@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hk20-0305/Leetcode_Question/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/hk20-0305/Leetcode_Question/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/hk20-0305/Leetcode_Question/tree/master/2121-intervals-between-identical-elements) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hk20-0305/Leetcode_Question/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/hk20-0305/Leetcode_Question/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2679-sum-in-a-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/hk20-0305/Leetcode_Question/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1386-cinema-seat-allocation](https://github.com/hk20-0305/Leetcode_Question/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hk20-0305/Leetcode_Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/hk20-0305/Leetcode_Question/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hk20-0305/Leetcode_Question/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hk20-0305/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
