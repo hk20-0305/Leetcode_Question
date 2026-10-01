@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/hk20-0305/Leetcode_Question/tree/master/2121-intervals-between-identical-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/hk20-0305/Leetcode_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2679-sum-in-a-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/2679-sum-in-a-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/hk20-0305/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hk20-0305/Leetcode_Question/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2121-intervals-between-identical-elements](https://github.com/hk20-0305/Leetcode_Question/tree/master/2121-intervals-between-identical-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/hk20-0305/Leetcode_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2965-find-missing-and-repeated-values](https://github.com/hk20-0305/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hk20-0305/Leetcode_Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/hk20-0305/Leetcode_Question/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/2396-strictly-palindromic-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/hk20-0305/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hk20-0305/Leetcode_Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hk20-0305/Leetcode_Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/hk20-0305/Leetcode_Question/tree/master/3870-count-commas-in-range) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/2679-sum-in-a-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/hk20-0305/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
 ## Data Stream
 |  |
 | ------- |
