@@ -3,25 +3,26 @@ class Solution {
         
        
         int n=grid.length;
-        int sum=0;
+        int arr[] = new int[2500+1];
+    
         int dup = 0;
-        //  if(n==0)return ans;
-        HashSet<Integer> set = new HashSet<>();
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
-                sum += grid[i][j];
-               if(set.contains(grid[i][j])){
-                dup = grid[i][j];
-               }
-               set.add(grid[i][j]);
+                if(arr[grid[i][j]] == 0){
+                    arr[grid[i][j]] = 1;
+                }else if(arr[grid[i][j]] != 0){
+                    dup = grid[i][j];
+                }
+            }
+        }
+        for(int i=1; i<=2500; i++){
+            if(arr[i] == 0){
+                return new int[]{dup,i};
             }
         }
 
-        sum = sum-dup;
-        n= n*n;
-        int x = n*(n+1)/2;
-        int ans = x-sum;
-       return new int[]{dup,ans};
+    
+       return new int[]{0,0};
 
     }
 }
