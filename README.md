@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hk20-0305/Leetcode_Question/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/hk20-0305/Leetcode_Question/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0539-minimum-time-difference](https://github.com/hk20-0305/Leetcode_Question/tree/master/0539-minimum-time-difference) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/hk20-0305/Leetcode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hk20-0305/Leetcode_Question/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/0287-find-the-duplicate-number) |
 | [1023-camelcase-matching](https://github.com/hk20-0305/Leetcode_Question/tree/master/1023-camelcase-matching) |
