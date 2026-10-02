@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/hk20-0305/Leetcode_Question/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/hk20-0305/Leetcode_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hk20-0305/Leetcode_Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hk20-0305/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1023-camelcase-matching](https://github.com/hk20-0305/Leetcode_Question/tree/master/1023-camelcase-matching) |
 | [1386-cinema-seat-allocation](https://github.com/hk20-0305/Leetcode_Question/tree/master/1386-cinema-seat-allocation) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Enumeration
 |  |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/0287-find-the-duplicate-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
