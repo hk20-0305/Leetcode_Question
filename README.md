@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hk20-0305/Leetcode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/hk20-0305/Leetcode_Question/tree/master/0005-longest-palindromic-substring) |
+| [0079-word-search](https://github.com/hk20-0305/Leetcode_Question/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/hk20-0305/Leetcode_Question/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/0387-first-unique-character-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hk20-0305/Leetcode_Question/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/hk20-0305/Leetcode_Question/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/hk20-0305/Leetcode_Question/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0189-rotate-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hk20-0305/Leetcode_Question/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0101-symmetric-tree) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/hk20-0305/Leetcode_Question/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/hk20-0305/Leetcode_Question/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/hk20-0305/Leetcode_Question/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/hk20-0305/Leetcode_Question/tree/master/0257-binary-tree-paths) |
 ## Database
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hk20-0305/Leetcode_Question/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/hk20-0305/Leetcode_Question/tree/master/2965-find-missing-and-repeated-values) |
