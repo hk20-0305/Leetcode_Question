@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hk20-0305/Leetcode_Question/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/hk20-0305/Leetcode_Question/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/hk20-0305/Leetcode_Question/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hk20-0305/Leetcode_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/hk20-0305/Leetcode_Question/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/2679-sum-in-a-matrix) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0054-spiral-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/2679-sum-in-a-matrix) |
 ## Linked List
 |  |
