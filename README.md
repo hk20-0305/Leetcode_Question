@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hk20-0305/Leetcode_Question/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/hk20-0305/Leetcode_Question/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hk20-0305/Leetcode_Question/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2785-sort-vowels-in-a-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hk20-0305/Leetcode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hk20-0305/Leetcode_Question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hk20-0305/Leetcode_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/hk20-0305/Leetcode_Question/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hk20-0305/Leetcode_Question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Manacher
 |  |
