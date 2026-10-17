@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hk20-0305/Leetcode_Question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hk20-0305/Leetcode_Question/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/hk20-0305/Leetcode_Question/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hk20-0305/Leetcode_Question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/hk20-0305/Leetcode_Question/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/hk20-0305/Leetcode_Question/tree/master/0539-minimum-time-difference) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hk20-0305/Leetcode_Question/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/hk20-0305/Leetcode_Question/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/hk20-0305/Leetcode_Question/tree/master/0409-longest-palindrome) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/hk20-0305/Leetcode_Question/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1386-cinema-seat-allocation](https://github.com/hk20-0305/Leetcode_Question/tree/master/1386-cinema-seat-allocation) |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hk20-0305/Leetcode_Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/hk20-0305/Leetcode_Question/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
